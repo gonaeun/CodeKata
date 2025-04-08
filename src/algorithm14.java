@@ -1,5 +1,5 @@
 public class algorithm14 {
-    // 자릿수 더하기
+    // 약수의 합
 
     public int solution(int n) {
         int sum = 0;

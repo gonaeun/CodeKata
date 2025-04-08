@@ -1,5 +1,5 @@
 public class algorithm15 {
-    // 자릿수 더하기
+    // 나머지가 1이 되는 수 찾기
 
     public int solution(int n) {
         int answer = 0;
