@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class algorithm21 {
     // 하샤드 수
 
